@@ -23,8 +23,8 @@
   <!-- END OF FORKS -->
 
   <!-- Device trees -->
-  <project name="DarkLord2099/android_device_samsung_gtaxl-common" path="device/samsung/gtaxl-common" remote="github" revision="lineage-20" />
-  <project name="DarkLord2099/android_device_samsung_gtaxllte" path="device/samsung/gtaxllte" remote="github" revision="lineage-20" />
+  <project name="DarkLord2099/android_device_samsung_gtaxl-common" path="device/samsung/gtaxl-common" remote="github" revision="crdroid-13" />
+  <project name="DarkLord2099/android_device_samsung_gtaxllte" path="device/samsung/gtaxllte" remote="github" revision="crdroid-13" />
   <!-- Vendor trees -->
   <project name="DarkLord2099/android_vendor_samsung_gtaxl-common" path="vendor/samsung/gtaxl-common" remote="github" revision="lineage-20" />
   <project name="DarkLord2099/android_vendor_samsung_gtaxllte" path="vendor/samsung/gtaxllte" remote="github" revision="lineage-20" />
