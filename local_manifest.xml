@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remote  name="DarkLord2099"
+            fetch="https://github.com/DarkLord2099"
+            clone-depth="1" />
+    <remote name="K9100ii"
+            fetch="https://github.com/K9100ii"
+            clone-depth="1" />
   <!-- FORKS -->
   <!-- Contain patches necessary for working around the old kernel not having (anywhere near the required level of) eBPF support - REQUIRED, otherwise no boot -->
   <remove-project name="platform/frameworks/libs/net" />
